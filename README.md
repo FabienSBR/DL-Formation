@@ -1,1 +1,1 @@
-Base de code pour le cours HTML CSS
+Code pour le site vitrine de DL Formation
